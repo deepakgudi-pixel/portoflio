@@ -1,9 +1,10 @@
-import Navbar from "#components/Navbar"
+import { Navbar , Dock } from "#components"
 
 const App = () => {
     return (
       <main>
           <Navbar />
+          <Dock />
       </main>
     )
 }
