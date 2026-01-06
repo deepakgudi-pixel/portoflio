@@ -62,10 +62,8 @@ const Dock = () => {
     }, []);
 
 
-    // open window logic
-    const  toggleApp = (app) => {
 
-    }
+    const  toggleApp = (app) => {}
 
     return (
         <section id={"dock"}>
